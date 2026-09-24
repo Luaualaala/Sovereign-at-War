@@ -75,5 +75,3 @@ The simulation resolves daily at the province and formation level. Sea lanes and
 - **VALIDATION.md** and **AI_STATUS.md**: verification evidence, status and practical limits.
 
 From this folder, run `node tests/research.test.cjs`, `node tests/warfare.test.cjs`, `node tests/integration.test.cjs`, and `node tests/server.test.cjs`. The server test uses its own project-contained evidence directory and a separate local port. No test removes existing save revisions.
-
-Your original **AGENT_JOB.md** and **Job References/** specification are preserved as received.
