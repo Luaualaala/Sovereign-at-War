@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#152023">
+  <title>Sovereigns at War — A continent in the balance</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#workspace">Skip to campaign</a>
+  <div id="app">
+    <header class="topbar">
+      <button class="brand" data-ui="setup" title="Campaign menu"><span class="brand-mark">S</span><span>SOVEREIGNS<span class="brand-sub">AT WAR</span></span></button>
+      <div id="nation-head" class="nation-head"></div>
+      <div id="resource-head" class="resource-head"></div>
+      <div class="time-block"><div id="campaign-date">1 JAN 1936</div><div class="time-controls" aria-label="Simulation speed"><button id="pause" data-ui="pause" title="Pause / resume (Space)">▶</button><button data-speed="1">1×</button><button data-speed="2">2×</button><button data-speed="3">3×</button><button data-speed="5">5×</button></div></div>
+      <button class="icon-button" data-ui="saves" title="Save and load campaign">▣</button><button class="icon-button" data-ui="settings" title="Accessibility and audio">⚙</button>
+    </header>
+    <div class="campaign-shell">
+      <nav id="navigation" aria-label="Campaign departments"></nav>
+      <main id="workspace" tabindex="-1">
+        <div class="workspace-bar"><div id="breadcrumb">COMMAND / STRATEGIC ATLAS</div><div class="workspace-actions"><button data-ui="briefing">Daily briefing</button><button data-ui="help">Field guide</button></div></div>
+        <section id="map-screen" aria-label="Strategic atlas">
+          <div class="map-toolbar"><div><span class="eyebrow">THE CONTINENT</span><h1>Strategic atlas</h1></div><label class="compact-label">Map lens<select id="map-mode"><option value="political">Political borders</option><option value="terrain">Terrain & weather</option><option value="supply">Supply network</option><option value="intelligence">Intelligence coverage</option><option value="population">Population</option><option value="infrastructure">Infrastructure</option><option value="industry">Industrial capacity</option><option value="resistance">Resistance</option><option value="diplomacy">Diplomatic access</option><option value="unrest">Public unrest</option><option value="airnaval">Airfields & naval bases</option></select></label></div>
+          <div id="map-viewport" tabindex="0" aria-label="World map. Drag to pan, scroll to zoom. Select a region for accessible movement controls."><svg id="atlas" role="img" aria-label="Interactive strategic world map"></svg><div class="map-grain"></div><div class="map-compass" aria-hidden="true">N<span>◇</span>S</div><div class="map-zoom"><button data-ui="zoom-in" title="Zoom in">+</button><button data-ui="zoom-out" title="Zoom out">−</button><button data-ui="zoom-reset" title="Fit map">⌖</button></div><div id="map-key" class="map-key"></div><div id="map-tip" class="map-tip" hidden></div></div>
+          <div class="map-footer"><span>SELECT a province · RIGHT-CLICK a destination for your selected formation · DRAG to pan</span><span id="map-state"></span></div>
+        </section>
+        <section id="department-screen" hidden></section>
+        <section id="tutorial" hidden></section>
+      </main>
+      <aside id="context-panel" aria-label="Selected region and orders"></aside>
+    </div>
+    <footer id="dispatch-bar"><span class="live-dot"></span><b>THE WIRE</b><div id="dispatch-text">Awaiting national command.</div><button data-tab="reports">Open chronicle →</button></footer>
+  </div>
+  <div id="modal-layer" class="modal-layer" hidden></div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <script src="data.js"></script><script src="core.js"></script><script src="research.js"></script><script src="warfare.js"></script><script src="systems.js"></script><script src="ui.js"></script>
+</body>
+</html>
