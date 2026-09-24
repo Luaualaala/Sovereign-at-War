@@ -1,57 +1,165 @@
-# Custom Non-Commercial Game License
+# Sovereign at War — Custom Redistribution and Monetization License
 
-Copyright © 2026. All rights reserved.
+Copyright © 2026 Luaualaala. All rights reserved.
 
-This license grants limited permission to use, modify, and create mods for this game under the terms below.
+This license governs the use, modification, redistribution, hosting, and monetization of **Sovereign at War** (the "Game").
 
-## 1. Permitted Use
+By downloading, using, modifying, hosting, or redistributing the Game, you agree to the terms below.
+
+## 1. Permission to Use and Modify
 
 You may:
 
-- Download, install, and play the game for personal, non-commercial use.
-- Modify the game for personal, non-commercial use.
-- Create mods, patches, add-ons, or other modifications for the game.
-- Share mods, patches, add-ons, or other modifications free of charge.
+- Download, install, and play the Game.
+- Modify the Game for personal use.
+- Create mods, patches, add-ons, translations, conversions, or other modifications.
+- Share your mods and modifications.
+- Redistribute the Game, whether modified or unmodified.
+- Host or mirror the Game on websites, launchers, repositories, storefronts, or other platforms.
 
-## 2. Restrictions
+These permissions apply only while you comply with this license.
 
-You may not, without explicit written permission from the copyright holder:
+## 2. The Game Must Remain Free
 
-- Sell the game.
-- Sell modified versions of the game.
-- Sell or commercially redistribute mods, patches, add-ons, or other modifications based on the game.
-- Upload, redistribute, sublicense, or otherwise commercially exploit the game, modified versions of the game, its source code, or substantial portions of its assets.
-- Use the game, its source code, or substantial portions of its assets as part of a paid product, service, bundle, subscription, marketplace listing, or other commercial offering.
-- Claim ownership of the original game or its original assets.
+You may not charge users for access to the Game.
 
-## 3. Mod Distribution
+This means you may not:
 
-Mods should be distributed as separate mod files, patches, add-ons, or similar modifications where reasonably possible.
+- Sell the Game.
+- Charge a download fee.
+- Place the Game behind a subscription, membership, paywall, or paid access tier.
+- Require a purchase in order to download or play the Game.
+- Sell modified versions of the Game.
+- Sell mods or other modifications that require or incorporate the Game.
+- Include the Game in a paid bundle without explicit written permission from the copyright holder.
 
-This license does not grant permission to redistribute the complete game, whether modified or unmodified, unless explicit written permission is provided by the copyright holder.
+A storefront or distribution platform may list the Game, provided that the Game itself remains available free of charge.
 
-## 4. Ownership
+## 3. Donations, Tips, and Similar Payments
 
-The original game, its source code, artwork, audio, writing, characters, assets, and other original content remain the property of their respective copyright holder(s).
+You may not solicit or accept donations, tips, crowdfunding payments, paid memberships, sponsorship payments, or other voluntary payments specifically in connection with:
 
-Creating a mod or modification does not transfer ownership of the original game or its original content.
+- Hosting the Game.
+- Redistributing the Game.
+- Providing downloads of the Game.
+- Maintaining a mirror or storefront page for the Game.
+- Providing access to a modified version of the Game.
+- Providing mods based on the Game.
 
-## 5. No Commercial Rights Granted
+General donations to a website, creator, or organization that are genuinely unrelated to the Game are not covered by this restriction.
 
-Nothing in this license grants permission to sell, monetize, commercially sublicense, or otherwise commercially exploit the game or derivative versions of the game.
+## 4. Advertising
 
-Any commercial use requires explicit written permission from the copyright holder.
+Advertising is permitted only under the conditions in this section.
 
-## 6. Disclaimer
+### 4.1 No Disruptive Advertising
 
-The game is provided "as is", without warranty of any kind, express or implied. To the maximum extent permitted by applicable law, the copyright holder is not liable for damages arising from the use, modification, or distribution of the game or related mods.
+Advertisements may not:
 
-## 7. License Nature
+- Appear inside the Game.
+- Interrupt gameplay.
+- Pause or delay the Game.
+- Cover or obstruct the Game window or interface.
+- Be required to launch, continue, save, or access gameplay.
+- Be inserted into loading screens, menus, dialogue, gameplay, or other Game content.
+- Materially degrade the user's experience of the Game.
 
-This is a custom non-commercial license.
+Advertisements displayed separately on a website, launcher, storefront, download page, or hosting service are permitted, provided that they do not interfere with the Game itself.
 
-It is **not** an OSI-approved open-source license, because it restricts commercial use and redistribution.
+### 4.2 Revenue Share
+
+If advertising revenue is generated as a result of users accessing, downloading, launching, or playing the Game, **30% of the Gross Attributable Advertising Revenue must be paid to the copyright holder**.
+
+"Gross Attributable Advertising Revenue" means the total advertising revenue reasonably attributable to traffic, impressions, views, clicks, sessions, downloads, or engagement generated by the Game, **before** deducting hosting costs, platform costs, employee costs, taxes paid by the distributor, development expenses, or other operating expenses.
+
+Examples include advertising revenue generated from:
+
+- A webpage primarily used to download or access the Game.
+- A launcher page dedicated to the Game.
+- A storefront page for the Game.
+- Advertising shown alongside a browser-based version of the Game.
+- Advertising revenue directly measured as resulting from users accessing or playing the Game.
+
+Where exact attribution is not technically available, the distributor must use a reasonable, good-faith method of calculating the portion attributable to the Game.
+
+## 5. Accounting and Payment
+
+Any person or organization earning advertising revenue covered by Section 4 must:
+
+- Keep reasonable records sufficient to calculate Gross Attributable Advertising Revenue.
+- Provide a reasonable revenue statement to the copyright holder upon request.
+- Pay the copyright holder's 30% share no later than 30 days after the end of each calendar quarter in which covered revenue was earned.
+
+If payment details have not been publicly provided, the distributor must make a reasonable effort to contact the copyright holder to arrange payment.
+
+The distributor may not avoid or reduce the revenue share by routing advertising revenue through another person, company, account, service, or affiliated entity.
+
+## 6. Mods and Modified Versions
+
+You may create and redistribute mods and modified versions of the Game for free.
+
+You retain ownership of original material that you independently create for a mod, subject to any rights in the underlying Game.
+
+You do not gain ownership of the original Game, its source code, artwork, audio, writing, characters, trademarks, or other original assets merely by modifying or redistributing it.
+
+A modified version must not falsely claim to be an official version produced or endorsed by the original copyright holder.
+
+## 7. Redistribution
+
+You may redistribute complete copies of the Game, whether modified or unmodified, provided that:
+
+- Access remains free.
+- This license is included with the distributed copy or clearly linked from its download page.
+- Copyright and attribution notices are not removed.
+- Any monetization complies with this license.
+
+You may redistribute the Game through websites, repositories, launchers, mirrors, storefronts, archives, or similar services.
+
+## 8. Other Commercial Use
+
+Except for advertising expressly permitted under Section 4, **commercial exploitation of the Game is prohibited unless you receive explicit written permission from the copyright holder**.
+
+This includes, without limitation:
+
+- Selling licenses to the Game.
+- Selling access to hosted versions.
+- Paid mods.
+- Paid DLC based on or incorporating the Game.
+- Commercial sublicensing.
+- Using the Game as a paid service or subscription benefit.
+- Selling substantial portions of the Game's source code or assets.
+- Using the Game or its assets in another commercial product.
+
+The copyright holder may grant separate commercial licenses under different terms.
+
+## 9. No Transfer of Ownership
+
+This license grants permissions to use, modify, and redistribute the Game. It does not transfer ownership of the Game or its original intellectual property.
+
+All rights not expressly granted by this license are reserved.
+
+## 10. Termination
+
+Your rights under this license terminate automatically if you violate its terms.
+
+After termination, you must stop distributing, hosting, or monetizing the Game unless and until the copyright holder gives you written permission to resume.
+
+Termination does not cancel any payment or accounting obligations that arose before termination.
+
+## 11. No Warranty
+
+THE GAME IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE GAME OR ITS USE, MODIFICATION, REDISTRIBUTION, OR HOSTING.
+
+## 12. Nature of This License
+
+This is a **custom source-available / redistribution license**.
+
+It is **not an OSI-approved open-source license**, because it places restrictions on commercial use, donations, advertising, and monetization.
+
+Nothing in this license prevents the copyright holder from releasing the Game under additional or different licenses.
 
 ---
 
-If you want to use this game or its assets commercially, contact the copyright holder for permission.
+For commercial permissions or questions about revenue-sharing arrangements, contact the copyright holder through the project's official repository.
